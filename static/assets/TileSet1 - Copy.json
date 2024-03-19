@@ -1,0 +1,12 @@
+{ "columns":12,
+ "image":"..\/Downloads\/test folder\/build\/assets\/TileSet1.png",
+ "imageheight":256,
+ "imagewidth":384,
+ "margin":0,
+ "name":"TileSet1",
+ "spacing":0,
+ "tilecount":96,
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset"
+}
