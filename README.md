@@ -2,6 +2,8 @@
 
 Welcome to (Sub)Conscious, a classic 2D platformer game built using Phaser! Jump into a world of our troubled hero, where you'll traverse through challenging levels and face off against epic boss battles.
 
+[!NOTE] This project was made in 2018 for the purposes of FIKT CodeCup.
+
 ## Features
 
 - **Classic Gameplay**: Experience the nostalgia of classic 2D platformer mechanics with modern twists.
